@@ -55,6 +55,18 @@ The entire analysis is implemented using **Python (Jupyter Notebook)** and suppo
 
 ---
 
+### 🎬 PART :- A (GIF)
+
+<img width="800" height="425" alt="Part (A) GIF" src="https://github.com/user-attachments/assets/96653f56-c9dd-4125-8002-7c2f83318b23" />
+
+---
+
+### 🎬 PART :- B (GIF)
+
+<img width="800" height="425" alt="Part (B) GIF" src="https://github.com/user-attachments/assets/b283d90e-d425-4ef0-8dc5-113fc7225480" />
+
+---
+
 # 📗 Part A – Theoretical Foundation:
 
 ---
