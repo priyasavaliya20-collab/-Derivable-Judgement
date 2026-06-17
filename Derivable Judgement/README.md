@@ -170,11 +170,11 @@ print("P-Value =", p_value)
 
 | Metric | Value |
 |----------|----------|
-| Chi-Square Statistic | 0.71 |
-| p-value | 0.701 |
-| Critical Value | 5.99 |
+| Chi-Square Statistic | 0.609 |
+| p-value | 0.610 |
+| Critical Value | 2.623 |
 
-📌 **Interpretation:** The p-value is much greater than 0.05 and the test statistic is below the critical value.
+📌 **Interpretation:** The p-value is much greater than 0.610 and the test statistic is below the critical value.
 
 📌 **Conclusion:** Smoking status and diabetes prevalence are statistically independent.
 
@@ -192,9 +192,9 @@ CI = \bar{x} \pm Z \times \frac{\sigma}{\sqrt{n}}
 
 | Variable | 95% Confidence Interval |
 |----------|------------------------|
-| Age | 47.24 – 50.48 |
-| Weight | 79.42 – 83.37 |
-| Blood Pressure | 135.42 – 139.56 |
+| Age | 41.09 – 44.26 |
+| Weight | 75.8 – 79.21 |
+| Blood Pressure | 135.63 – 140.06 |
 
 ### Python Code
 
@@ -255,9 +255,9 @@ t =
 
 | Metric | Value |
 |----------|----------|
-| t-value | 1.67 |
-| p-value | 0.095 |
-| Critical Value | 1.97 |
+| t-value | 1.287 |
+| p-value | 0.199 |
+| Critical Value | 1.28 |
 
 ### Python Code
 
@@ -296,8 +296,8 @@ Determine whether smoking status and diabetes are related.
 
 | Metric | Value |
 |----------|----------|
-| Chi-Square | 0.71 |
-| p-value | 0.701 |
+| Chi-Square | 2.131 |
+| p-value | 0.345 |
 
 📌 **Interpretation:** Observed differences are likely due to random variation.
 
@@ -330,9 +330,9 @@ F=
 
 | Metric | Value |
 |----------|----------|
-| F-value | 0.87 |
-| p-value | 0.458 |
-| Critical Value | 2.62 |
+| F-value | 1.072 |
+| p-value | 0.370 |
+| Critical Value | 2.38 |
 
 ### Python Code
 
