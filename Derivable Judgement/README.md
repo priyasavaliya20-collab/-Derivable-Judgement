@@ -99,7 +99,7 @@ Through statistical testing, the project demonstrates how data-driven decisions 
 
 ---
 ## Q1. What is inferential statistics?
- <img width="300" height="520" alt="— Q1" src="https://github.com/user-attachments/assets/3f1cd3fa-eb9c-435f-8ac6-fbbe230561ca" />
+ <img width="300" height=420" alt="— Q1" src="https://github.com/user-attachments/assets/3f1cd3fa-eb9c-435f-8ac6-fbbe230561ca" />
 
 
 # 📗  Part B – Data Analysis & Testing Tasks:
