@@ -121,7 +121,7 @@ Through statistical testing, the project demonstrates how data-driven decisions 
 
  ## Q6. Brief descriptions of z-test, t-test, chi-square test, and ANOVA test.
 
-   <img width="400" height="300" alt="Q6" src="https://github.com/user-attachments/assets/96028120-3a79-41c6-9fcd-8ada1666d09e" />
+   <img width="400" height="330" alt="Q6" src="https://github.com/user-attachments/assets/96028120-3a79-41c6-9fcd-8ada1666d09e" />
 
 
  ## Q7. What is Covariance?
