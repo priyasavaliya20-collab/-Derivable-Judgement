@@ -102,6 +102,10 @@ Through statistical testing, the project demonstrates how data-driven decisions 
    
    <img width="400" height="300" alt="— Q1" src="https://github.com/user-attachments/assets/ba95dc0d-4660-4429-ba28-4e3f16b9ef12" />
 
+## Q2. What is hypothesis testing and its components?
+
+  <img width="648" height="618" alt="Q2" src="https://github.com/user-attachments/assets/dfb6f334-b4d1-4df2-b879-dd5a21c5e326" />
+
 
 # 📗  Part B – Data Analysis & Testing Tasks:
 
