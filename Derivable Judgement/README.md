@@ -1,4 +1,8 @@
-# 📊 Derivable Judgement: Statistical Analysis & Hypothesis Testing on Healthcare Data
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Derivable%20Judgement&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Statistical%20Analysis%20and%20Hypothesis%20Testing%20on%20Healthcare%20Data&descAlignY=58&descSize=18" />
+</div>
+
 
 A complete **Theory + Practical Statistics Project** that applies **Inferential Statistics** and **Hypothesis Testing** techniques to a real-world healthcare dataset containing **500 patient records**.
 
