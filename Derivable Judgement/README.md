@@ -8,16 +8,7 @@ The entire analysis is implemented using **Python (Jupyter Notebook)** and suppo
 
 ---
 
-# 📋 Project Details
 
-| Field | Details |
-|---------|---------|
-| Title | Derivable Judgement: Statistical Analysis & Hypothesis Testing on Healthcare Data |
-| Duration | 4 Hours |
-| Type | Theory + Practical |
-| Domain | Healthcare Analytics |
-| Tools Used | Python · Excel |
-| Libraries | Pandas · NumPy · SciPy · Matplotlib |
 
 ---
 
@@ -44,29 +35,13 @@ Through statistical testing, the project demonstrates how data-driven decisions 
 | File | Description |
 |---------|---------|
 | 📓 Derivable_Judgement.ipynb | Complete statistical analysis notebook |
-| 📊 health_records_dataset_500.xlsx | Healthcare dataset containing 500 records |
-| 📄 Derivable_Judgement_Theory.pdf | Theoretical explanations and formulas |
-| 📄 Statistical_Insights_Report.docx | Detailed project interpretations |
+| 📊 Health_Dataset_500.xlsx | Healthcare dataset containing 500 records |
+| 📄 Part-A Theory.pdf | Theoretical explanations and formulas |
 | 📘 README.md | Project documentation |
 
 ---
 
-# 🧩 Dataset Structure
 
-**AI-Generated Dataset · 500 Records**
-
-| Column Name | Description |
-|------------|-------------|
-| Patient_ID | Unique Patient Identifier |
-| Age | Age of Patient |
-| Gender | Male / Female |
-| Weight | Weight in Kilograms |
-| BMI | Body Mass Index |
-| Blood_Pressure | Blood Pressure Reading |
-| Smoking_Status | Smoker / Non-Smoker |
-| Exercise_Frequency | Daily / Weekly / Rarely / Never |
-| Diabetes | Yes / No |
-| Cholesterol | Cholesterol Level |
 
 ---
 
