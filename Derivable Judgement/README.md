@@ -108,7 +108,7 @@ Through statistical testing, the project demonstrates how data-driven decisions 
   
  ## Q3. Explain confidence interval and critical value.
   
-   <img width="400" height="300" alt="Q3" src="https://github.com/user-attachments/assets/cfc34ac7-2fbd-4057-80be-b708ae1c9aa7" />
+   <img width="400" height="320" alt="Q3" src="https://github.com/user-attachments/assets/cfc34ac7-2fbd-4057-80be-b708ae1c9aa7" />
 
  ## Q4. Define p-value.
 
