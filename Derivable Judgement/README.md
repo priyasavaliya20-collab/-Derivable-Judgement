@@ -174,9 +174,11 @@ print("P-Value =", p_value)
 | p-value | 0.610 |
 | Critical Value | 2.623 |
 
-📌 **Interpretation:** The p-value is much greater than 0.610 and the test statistic is below the critical value.
+### 🔍 Interpretation:
+The p-value is much greater than 0.610 and the test statistic is below the critical value.
 
-📌 **Conclusion:** Smoking status and diabetes prevalence are statistically independent.
+### ✅ Conclusion:
+Smoking status and diabetes prevalence are statistically independent.
 
 ---
 
@@ -211,9 +213,11 @@ lower = mean_age - margin
 upper = mean_age + margin
 ```
 
-📌 **Interpretation:** The intervals provide a likely range for the true population means.
+### 🔍 Interpretation:
+The intervals provide a likely range for the true population means.
 
-📌 **Conclusion:** Population estimates are reliable and precise.
+### ✅ Conclusion:
+Population estimates are reliable and precise.
 
 ---
 
@@ -227,12 +231,10 @@ If p-value < 0.05 → Reject H₀
 If p-value ≥ 0.05 → Fail to Reject H₀
 ```
 
-### Interpretation
-
+### 🔍 Interpretation:
 Both critical value and p-value approaches produced the same statistical decision.
 
-### Conclusion
-
+### ✅ Conclusion:
 Statistical significance decisions remain consistent regardless of approach.
 
 ---
@@ -272,9 +274,11 @@ t_stat,p = ttest_ind(male,female)
 print(t_stat,p)
 ```
 
-📌 **Interpretation:** Although males show a slightly higher BMI, the difference is not statistically significant.
+### 🔍 Interpretation:
+Although males show a slightly higher BMI, the difference is not statistically significant.
 
-📌 **Conclusion:** Male and female BMI distributions are statistically similar.
+### ✅ Conclusion:
+Male and female BMI distributions are statistically similar.
 
 ---
 
@@ -299,9 +303,11 @@ Determine whether smoking status and diabetes are related.
 | Chi-Square | 2.131 |
 | p-value | 0.345 |
 
-📌 **Interpretation:** Observed differences are likely due to random variation.
+### 🔍 Interpretation:
+Observed differences are likely due to random variation.
 
-📌 **Conclusion:** No significant association exists between smoking status and diabetes prevalence.
+### ✅ Conclusion:
+No significant association exists between smoking status and diabetes prevalence.
 
 ---
 
@@ -347,13 +353,15 @@ F,p = f_oneway(
 )
 ```
 
-📌 **Interpretation:** BMI differences among exercise groups are not statistically significant.
+### 🔍 Interpretation:
+ BMI differences among exercise groups are not statistically significant.
 
-📌 **Conclusion:** Exercise frequency does not significantly affect BMI.
+### ✅ Conclusion:
+Exercise frequency does not significantly affect BMI.
 
 ---
 
-## 👥 Q7 — ANOVA Across Age Groups
+## 👥  — ANOVA Across Age Groups
 
 ### Objective
 
@@ -363,17 +371,19 @@ Evaluate diabetes prevalence across age groups.
 
 | Metric | Value |
 |----------|----------|
-| F-value | 1.50 |
-| p-value | 0.201 |
-| Critical Value | 2.39 |
+| F-value | 1.07 |
+| p-value | 0.369 |
+| Critical Value | 2.38 |
 
-📌 **Interpretation:** Diabetes prevalence varies slightly but not significantly across age groups.
+### 🔍 Interpretation:
+ Diabetes prevalence varies slightly but not significantly across age groups.
 
-📌 **Conclusion:** Age groups do not differ significantly in diabetes prevalence.
+### ✅ Conclusion:
+  Age groups do not differ significantly in diabetes prevalence.
 
 ---
 
-## 📈 Q8 — Correlation & Covariance Analysis
+## 📈 Q7 — Correlation & Covariance Analysis
 
 ### Objective
 
@@ -391,7 +401,7 @@ r=
 
 | Metric | Value |
 |----------|----------|
-| Correlation (r) | 0.109 |
+| Correlation (r) | 0.032 |
 | Relationship | Very Weak Positive |
 
 ### Python Code
@@ -405,9 +415,13 @@ print(correlation)
 print(covariance)
 ```
 
-📌 **Interpretation:** Age explains only about 1% of BMI variation.
+### 🔍 Interpretation:
 
-📌 **Conclusion:** Age is not a meaningful predictor of BMI.
+The correlation coefficient (r = **0.032**) is very close to **0**.
+
+### ✅ Conclusion:
+
+Age and BMI are **not meaningfully correlated** in this dataset .
 
 ---
 
@@ -461,15 +475,7 @@ Derivable_Judgement.ipynb
 
 ---
 
-# 🌟 Future Enhancements
 
-- Add Logistic Regression Analysis
-- Implement Multiple Linear Regression
-- Build Streamlit Dashboard
-- Add Predictive Healthcare Modeling
-- Expand Dataset Beyond 1000 Records
-- Include Advanced Statistical Testing
-- Add Interactive Visual Analytics
 
 ---
 
@@ -492,7 +498,7 @@ Derivable_Judgement.ipynb
 
 ---
 
-## 👩‍💻 Shruti Bhawsar
+## 👩‍💻 Priya Savaliya
 
 📍 Ahmedabad, Gujarat, India
 
